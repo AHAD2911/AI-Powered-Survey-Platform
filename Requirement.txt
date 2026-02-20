@@ -1,0 +1,38 @@
+# AI-Powered Survey Platform Requirements
+# Core Framework & Web Interface
+streamlit>=1.28.0
+streamlit-lottie>=0.0.4
+
+# AI & Machine Learning
+google-generativeai>=0.3.0
+speechrecognition>=3.10.0
+
+# Database
+sqlite3>=3.35.0
+
+# HTTP Requests & API Integration
+requests>=2.31.0
+
+# Audio Processing
+pyaudio>=0.2.11
+pydub>=0.25.1
+
+# Data Processing & Utilities
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Development & Code Quality
+pylint>=2.17.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Optional: Enhanced Features
+plotly>=5.15.0
+scipy>=1.11.0
